@@ -1,0 +1,12 @@
+.homeImg{
+    background-image: url(../Asset/rnfImg.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.rngColor{
+    color: whitesmoke;
+}
+.SNWAH{
+    padding-top: 10rem;
+}

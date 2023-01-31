@@ -1,133 +1,133 @@
 {
-    "studentName":[
+    "studentNames":[
         {
-            "firstName":"Manuel"  
+            "Name":"Manuel"  
         }, 
         {
-            "firstName":"Ulises "
+            "Name":"Ulises "
         },
         {
-            "firstName":"Chris" 
+            "Name":"Chris" 
         },
         {
-            "firstName":"Aisha"
+            "Name":"Aisha"
         },
         {
-            "firstName":"Jacob"
+            "Name":"Jacob"
         },
         {
-            "firstName":"Carlos"
+            "Name":"Carlos"
         },
         {
-            "firstName":"Griffin"
+            "Name":"Griffin"
         },
         {
-            "firstName":"Jeremy"
+            "Name":"Jeremy"
         },
         {
-            "firstName":"Pedro"
+            "Name":"Pedro"
         },
         {
-            "firstName":"Harrison B."
+            "Name":"Harrison B."
         },
         {
-            "firstName":"Isaiah"
+            "Name":"Isaiah"
         },
         {
-            "firstName":"Marcel"
+            "Name":"Marcel"
         },
         {
-            "firstName":"Fernando"
+            "Name":"Fernando"
         },
         {
-            "firstName":"Jovann"
+            "Name":"Jovann"
         },
         {
-            "firstName":"Caroline"
+            "Name":"Caroline"
         },
         {
-            "firstName":"Lerissa"
+            "Name":"Lerissa"
         },
         {
-            "firstName":"Andrew"
+            "Name":"Andrew"
         },
         {
-            "firstName":"Brandon"
+            "Name":"Brandon"
         },
         {
-            "firstName":"Madeline"
+            "Name":"Madeline"
         },
         {
-            "firstName":"Harrison W."
+            "Name":"Harrison W."
         },
         {
-            "firstName":"Amar"
+            "Name":"Amar"
         },
         {
-            "firstName":"Ken F."
+            "Name":"Ken F."
         },
         {
-            "firstName":"Mark"
+            "Name":"Mark"
         },
         {
-            "firstName":"Reed"
+            "Name":"Reed"
         },
         {
-            "firstName":"Dan D."
+            "Name":"Dan D."
         },
         {
-            "firstName":"Andrea"
+            "Name":"Andrea"
         },
         {
-            "firstName":"Elizar"
+            "Name":"Elizar"
         },
         {
-            "firstName":"Jazmine"
+            "Name":"Jazmine"
         },
         {
-            "firstName":"Jessie"
+            "Name":"Jessie"
         },
         {
-            "firstName":"John M."
+            "Name":"John M."
         },
         {
-            "firstName":"Kent"
+            "Name":"Kent"
         },
         {
-            "firstName":"Richard"
+            "Name":"Richard"
         },
         {
-            "firstName":"Samuel"
+            "Name":"Samuel"
         },
         {
-            "firstName":"Shaun"
+            "Name":"Shaun"
         },
         {
-            "firstName":"Danny"
+            "Name":"Danny"
         },
         {
-            "firstName":"Scott"
+            "Name":"Scott"
         },
         {
-            "firstName":"Tony"
+            "Name":"Tony"
         },
         {
-            "firstName":"Ken M."
+            "Name":"Ken M."
         },
         {
-            "firstName":"Anothay C."
+            "Name":"Anothay C."
         },
         {
-            "firstName":"Evangelina A."
+            "Name":"Evangelina A."
         },
         {
-            "firstName":"Joseph R."
+            "Name":"Joseph R."
         },
         {
-            "firstName":"Peter V."
+            "Name":"Peter V."
         },
         {
-            "firstName":"Sophie E."
+            "Name":"Sophie E."
         }
     ]
 }
